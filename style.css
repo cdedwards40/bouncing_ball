@@ -1,0 +1,22 @@
+.ball {
+    z-index: 5;
+    position: absolute;
+    left: 0px;
+    top: 200px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: skyblue;
+}
+
+.div-line {
+    /* border-top: 1px solid ; */
+    border-bottom: 1px solid ;
+    /* border-left: 1px solid ; */
+    border-right: 1px solid ;
+    border-color: black;
+    padding: 0%;
+    margin-top: 0;
+    height: 900px;
+    width: 1300px;
+}
